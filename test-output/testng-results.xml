@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ROC_Framework_Design" duration-ms="187205" started-at="2020-07-22T11:06:50Z" finished-at="2020-07-22T11:09:58Z">
+    <groups>
+    </groups>
+    <test name="ROC_Test_Cases" duration-ms="187205" started-at="2020-07-22T11:06:50Z" finished-at="2020-07-22T11:09:58Z">
+      <class name="com.roc.qa.testcases.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.LoginPageTest@27d415d9]" name="setUp" is-config="true" duration-ms="11464" started-at="2020-07-22T11:06:51Z" finished-at="2020-07-22T11:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.roc.qa.testcases.LoginPageTest@27d415d9]" name="loginPageTitleTest" duration-ms="16" started-at="2020-07-22T11:07:02Z" finished-at="2020-07-22T11:07:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.LoginPageTest@27d415d9]" name="tearDown" is-config="true" duration-ms="867" started-at="2020-07-22T11:07:02Z" finished-at="2020-07-22T11:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.LoginPageTest@27d415d9]" name="setUp" is-config="true" duration-ms="11404" started-at="2020-07-22T11:07:32Z" finished-at="2020-07-22T11:07:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest()[pri:2, instance:com.roc.qa.testcases.LoginPageTest@27d415d9]" name="loginTest" duration-ms="17752" started-at="2020-07-22T11:07:43Z" finished-at="2020-07-22T11:08:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.LoginPageTest@27d415d9]" name="tearDown" is-config="true" duration-ms="923" started-at="2020-07-22T11:08:01Z" finished-at="2020-07-22T11:08:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.roc.qa.testcases.LoginPageTest -->
+      <class name="com.roc.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="setUp" is-config="true" duration-ms="27604" started-at="2020-07-22T11:07:03Z" finished-at="2020-07-22T11:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageTitleTest()[pri:1, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="HomePageTitleTest" duration-ms="14" started-at="2020-07-22T11:07:30Z" finished-at="2020-07-22T11:07:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="tearDown" is-config="true" duration-ms="1187" started-at="2020-07-22T11:07:30Z" finished-at="2020-07-22T11:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="setUp" is-config="true" duration-ms="22395" started-at="2020-07-22T11:08:02Z" finished-at="2020-07-22T11:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginUserTest()[pri:2, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="LoginUserTest" duration-ms="89" started-at="2020-07-22T11:08:24Z" finished-at="2020-07-22T11:08:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUserTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="tearDown" is-config="true" duration-ms="1266" started-at="2020-07-22T11:08:24Z" finished-at="2020-07-22T11:08:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="setUp" is-config="true" duration-ms="25207" started-at="2020-07-22T11:08:25Z" finished-at="2020-07-22T11:08:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="TaskSearchPageTest()[pri:3, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="TaskSearchPageTest" duration-ms="1814" started-at="2020-07-22T11:08:51Z" finished-at="2020-07-22T11:08:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TaskSearchPageTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="tearDown" is-config="true" duration-ms="1132" started-at="2020-07-22T11:08:53Z" finished-at="2020-07-22T11:08:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="setUp" is-config="true" duration-ms="25868" started-at="2020-07-22T11:08:54Z" finished-at="2020-07-22T11:09:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CollectedFilesTest()[pri:4, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="CollectedFilesTest" duration-ms="1004" started-at="2020-07-22T11:09:20Z" finished-at="2020-07-22T11:09:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CollectedFilesTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="tearDown" is-config="true" duration-ms="1909" started-at="2020-07-22T11:09:21Z" finished-at="2020-07-22T11:09:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="setUp" is-config="true" duration-ms="26108" started-at="2020-07-22T11:09:22Z" finished-at="2020-07-22T11:09:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ExportButtonUnderTaskSummaryTest()[pri:5, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="ExportButtonUnderTaskSummaryTest" duration-ms="8153" started-at="2020-07-22T11:09:49Z" finished-at="2020-07-22T11:09:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ExportButtonUnderTaskSummaryTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.roc.qa.testcases.HomePageTest@5c18298f]" name="tearDown" is-config="true" duration-ms="998" started-at="2020-07-22T11:09:57Z" finished-at="2020-07-22T11:09:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.roc.qa.testcases.HomePageTest -->
+    </test> <!-- ROC_Test_Cases -->
+  </suite> <!-- ROC_Framework_Design -->
+</testng-results>
