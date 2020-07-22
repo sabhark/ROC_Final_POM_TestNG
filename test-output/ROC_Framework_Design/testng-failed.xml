@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [ROC_Framework_Design]">
+  <test thread-count="5" name="ROC_Test_Cases(failed)">
+    <classes>
+      <class name="com.roc.qa.testcases.HomePageTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="HomePageTitleTest"/>
+        </methods>
+      </class> <!-- com.roc.qa.testcases.HomePageTest -->
+    </classes>
+  </test> <!-- ROC_Test_Cases(failed) -->
+</suite> <!-- Failed suite [ROC_Framework_Design] -->

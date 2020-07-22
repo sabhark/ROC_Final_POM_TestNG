@@ -1,0 +1,12 @@
+com\roc\qa\util\WebEventListener.class
+com\roc\qa\pages\LoginPage.class
+com\roc\qa\pages\RecentVisitPage.class
+com\roc\qa\ExtendReportListener\ExtentReporterNG.class
+com\roc\qa\base\TestBase.class
+com\roc\qa\util\TestUtil.class
+com\roc\qa\pages\HomePage.class
+com\roc\qa\pages\TaskSearchPage.class
+com\roc\qa\pages\CollectedFilesPage.class
+com\roc\qa\pages\TariffPage.class
+com\roc\qa\pages\ElementPage.class
+com\roc\qa\pages\FreshElementPage.class
